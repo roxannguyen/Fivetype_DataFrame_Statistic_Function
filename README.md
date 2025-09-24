@@ -1,0 +1,6 @@
+- Dataframe: Danh sách các hóa đơn trong phạm vi giá trị từ min - max
+- demo_csv, demo_json, demo_txt, demo_xlrd, demo_xml, xml_demo2: Lọc 5 type
+- Sorttype: Dataframe nâng cấp thêm phần sorttype
+- Top3: Top 3 sản phẩm bán ra có giá trị cao nhất
+- TopN: Top N customer có total billing cao nhất
+- SQLite_Demo: Xuất ra df + SQLite
